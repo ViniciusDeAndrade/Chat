@@ -5,3 +5,4 @@ target/
 build/
 .DS_Store
 bin
+gen/com/example/myfirstapp/R.java
