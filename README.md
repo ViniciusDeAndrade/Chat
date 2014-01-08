@@ -1,3 +1,3 @@
 Chat para Android
 
-testando novamente
+testando
