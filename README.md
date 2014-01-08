@@ -1,3 +1,5 @@
 Chat para Android
 
-testando
+Por: Vicente Neto
+Marcos Vinicius
+Jeffeson Jacson
