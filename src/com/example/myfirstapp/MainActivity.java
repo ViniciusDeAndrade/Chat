@@ -8,6 +8,7 @@ import android.view.View;
 import android.widget.EditText;
 
 public class MainActivity extends Activity {
+	// aksdjh
 	public final static String EXTRA_MESSAGE = "com.example.myfirstapp.MESSAGE";
 
 	@Override
